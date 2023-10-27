@@ -1,5 +1,5 @@
 "use strict";
-intro to variables
+// intro to variables
 
 // variables can store some information
 // we can use that information later
